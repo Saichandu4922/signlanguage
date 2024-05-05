@@ -1,3 +1,3 @@
 # signlanguage
 My first repository
-author - Sai Chandu Reddy
+author - K Sai Chandu Reddy
