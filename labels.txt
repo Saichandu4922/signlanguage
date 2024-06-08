@@ -1,0 +1,10 @@
+0 Hello'
+1 I Love You
+2 nice
+3 No
+4 Okay
+5 Peace
+6 Smile
+7 Swing
+8 Thank You
+9 Yes
